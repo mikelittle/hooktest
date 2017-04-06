@@ -16,4 +16,3 @@ production change
 
 another staging change
 another staging change
-another staging change
